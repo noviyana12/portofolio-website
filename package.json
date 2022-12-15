@@ -1,6 +1,6 @@
 {
   "name": "portofolio-website",
-  "homepage": "https://noviyana12.github.io/",
+  "homepage": "https://noviyana12.github.io/portofolio-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
        "predeploy": "pnpm run build",
-       "deploy": "gh-pages -d dist",
+       "deploy": "pnpm run build && gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {

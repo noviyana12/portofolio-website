@@ -1,6 +1,6 @@
 import  React from "react";
 import "../assets/styles/homepage.css";
-import { Container, Row, Col, Form, Button, Carousel, Badge } from "react-bootstrap";
+import { Container, Row, Col, Button } from "react-bootstrap";
 import blog_1 from "../assets/images/blog-1.svg";
 import blog_2 from "../assets/images/blog-2.svg";
 import blog_3 from "../assets/images/blog-3.svg";

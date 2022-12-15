@@ -1,6 +1,5 @@
 import  React from "react";
 import "../assets/styles/footer.css";
-import instagram from "../assets/images/instagram.svg";
 import ig from "../assets/images/instagram.png";
 import linkedin from "../assets/images/linkedin.png";
 import wa from "../assets/images/whatsapp.png";

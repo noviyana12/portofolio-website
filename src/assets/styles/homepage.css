@@ -35,10 +35,8 @@
     font-size: 14px;
     padding: 12px 20px;
     border-radius: 50px;
-    //background-color: #FCB244;
     font-weight: 500;
     color: #27282D;
-    //color: #fff;
 }
 .section-subtitle{
     color: #4F4F4F;
@@ -272,7 +270,6 @@
         margin-top: 0px;
     }
     .contact-banner-section{
-        //display: block;
         font-size: 14px;
         line-height: 1.2;
     }

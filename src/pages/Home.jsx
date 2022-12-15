@@ -1,8 +1,7 @@
 import React from "react";
 import { Header, Contact, Service, Resume, Projects, Blog } from "../components";
-import { Container, Row, Col, Form, Button, Carousel, Badge } from "react-bootstrap";
+import { Container, Row, Col, Button} from "react-bootstrap";
 import "../assets/styles/homepage.css";
-import banner_pic from "../assets/images/banner-img.svg";
 import banner from "../assets/images/banner-pic.png";
 import line_banner from "../assets/images/line-banner.svg";
 

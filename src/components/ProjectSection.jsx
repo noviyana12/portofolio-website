@@ -1,6 +1,6 @@
-import  React, { useState } from "react";
+import  React from "react";
 import "../assets/styles/homepage.css";
-import { Container, Row, Col,Button, Carousel, Badge } from "react-bootstrap";
+import { Container, Row, Col} from "react-bootstrap";
 import project_1 from "../assets/images/project-1.png";
 import project_2 from "../assets/images/project-2.png";
 import project_3 from "../assets/images/project-3.png";
@@ -9,12 +9,6 @@ import project_5 from "../assets/images/project-5.png";
 import project_6 from "../assets/images/project-6.png";
 import project_7 from "../assets/images/project-7.png";
 import project_8 from "../assets/images/project-8.png";
-import project_9 from "../assets/images/project-9.png";
-/*
-import project_10 from "../assets/images/project-10.png";
-import project_11 from "../assets/images/project-11.png";
-import project_12 from "../assets/images/project-12.png";
-*/
 
 const ProjectSection = () => {
     return(

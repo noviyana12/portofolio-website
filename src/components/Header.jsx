@@ -1,11 +1,8 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect} from "react";
 import {
   Navbar,
   Nav,
   Container,
-  NavDropdown,
-  Button,
-  Offcanvas,
 } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import logo from "../assets/images/logo.svg";

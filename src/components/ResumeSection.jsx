@@ -1,6 +1,6 @@
 import  React from "react";
 import "../assets/styles/homepage.css";
-import { Container, Row, Col, Form, Button, Carousel, Badge } from "react-bootstrap";
+import { Container, Row, Col, Badge } from "react-bootstrap";
 import react_logo from "../assets/images/react.svg";
 import css_logo from "../assets/images/css-3.svg";
 import bootstrap_logo from "../assets/images/bootstrap.svg";

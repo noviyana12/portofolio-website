@@ -1,0 +1,468 @@
+.banner-section{
+    background-color: #FBFBFB;
+}
+.banner-pic{
+    width: 120%;
+    margin-left: -30px;
+    margin-top: -30px;
+}
+.profile-banner-section h2{
+    color: #27282D;
+    font-size: 54px;
+    font-weight: 700;
+}
+.contact-banner-section{
+    display: flex;
+    font-size: 14px;
+   
+    color: #27282D;
+}
+.contact-banner-section p{
+    display: flex;
+    margin-right: 8px;
+}
+.contact-banner-section a{
+    color: #27282D;
+    text-decoration: none;
+     margin-right: 8px;
+}
+.contact-banner-section a:hover{
+    color: #27282D;
+    text-decoration: underline;
+    
+}
+.download-cv-btn{
+    font-size: 14px;
+    padding: 12px 20px;
+    border-radius: 50px;
+    //background-color: #FCB244;
+    font-weight: 500;
+    color: #27282D;
+    //color: #fff;
+}
+.section-subtitle{
+    color: #4F4F4F;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.section-title{
+    color: #27282D;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 1.4;
+}
+.section-sentence{
+    color: #B0AFAD;
+    font-size: 14px;
+}
+.intro-learn-more{
+    font-size: 14px;
+    color: #FCB244;
+    text-decoration: none;
+}
+.intro-learn-more:hover{
+    color: #FCB244;
+    font-weight: 500;
+}
+.service-section{
+    background-color: #fff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.service-card{
+    margin-top: 36px;
+}
+.service-card .row{
+    margin: 0px;
+}
+.card{
+    background-color: #fff;
+    border: none;
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 42px 24px;
+    color: #27282D;
+    cursor: pointer;
+    box-shadow: 0px 1px 20px 1px #F0F0F0;
+    transition: transform 0.2s;
+}
+.serviceIcon{
+    width:60px;
+    margin: 0 auto;
+    margin-bottom: 12px;
+}
+.icon-card{
+    color: #FCB244;
+}
+.card h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+.card p{
+    font-size: 14px;
+    color: #B0AFAD;
+    margin-bottom: 0;
+}
+.card:hover{
+    color: #fff;
+    background-color: #FCB244;
+    box-shadow: 0px 1px 30px 1px #F0F0F0;
+    transform: scale(1.05);
+
+}
+.card:hover p{
+    color: #fff;
+}
+.project-section{
+    padding-top: 100px;
+    background-color: #fff;
+}
+.card-project-img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+.project-card-row{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.card-project{
+    width: 250px;
+    padding: 20px;
+    background-color: #fff;
+    margin-right: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-bottom: 24px;
+}
+.card-project a{
+    text-decoration: none;
+    
+}
+.card-project:hover{
+    box-shadow: 0px 1px 10px 1px #F0F0F0;
+    
+}
+#last-card-project{
+    margin-right: 0 !important;
+}
+.card-project h4{
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #27282D;
+    margin-bottom:4px;
+}
+.card-project p{
+    
+    font-size: 14px;
+    color: #B0AFAD;
+    margin-bottom: 0;
+}
+
+.resume-div{
+    margin-top: 36px;
+}
+.resume-div p{
+    font-size: 14px;
+}
+.resume-title{
+    font-size: 18px;
+    font-weight: 600;
+}
+.timeline-area{
+    margin: 26px auto;
+    border-left: 2px solid #27282D;
+    padding: 0 20px 0 30px;
+}
+.timeline-area div{
+    font-size: 14px;
+}
+.timeline-area h5{
+    font-size: 16px;
+    font-weight: 600;
+    margin-top:0 !important;
+}
+.timeline-area p{
+    font-size: 14px;
+}
+.timeline-area .badge{
+    margin-bottom: 8px;
+    font-size: 10px;
+    font-weight: 600;
+    background-color: #FB9804 !important;
+}
+.timeline-area div:before{
+    content: '';
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #FB9804;
+    border: 2px solid #27282D;
+    position: relative;
+    top: 18px;
+    margin-top: -12px;
+    margin-left: -36px;
+}
+
+.skill-col{
+    margin-bottom: 12px;
+}
+.logo{
+    height: 36px;
+    margin-bottom: 4px;
+}
+.blog-card{
+    margin: 0;
+}
+.blog-card-div{
+    padding-top: 24px;
+}
+
+.blog-card-col{
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+.blog-section{
+    padding-top: 80px;
+    padding-bottom: 150px;
+}
+.blog-img{
+    border-radius: 20px;
+    //width: 100%;
+    height: 300px;
+    object-fit: cover;
+    transition: transform .2s;
+}
+.blog-img:hover{
+    transform: scale(1.1);
+}
+.btn-see-more{
+    margin-top: 16px;
+    border-radius: 50px;
+    padding: 10px 28px;
+}
+.btn-see-more a{
+    text-decoration: none;
+    color: #27282D;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.contact-section{
+    height: 300px;
+    background-color: #FBFBFB;
+    padding: 20px;
+}
+.contact-pic{
+    width: 80% !important;
+    position: absolute;
+}
+
+@media (min-width: 993px) and (max-width: 1200px){
+    .banner-pic{
+        width: 100%;
+        margin-left: 20px;
+        margin-top: 0px;
+    }
+    .contact-banner-section{
+        //display: block;
+        font-size: 14px;
+        line-height: 1.2;
+    }
+    .card{
+        width: 30%;
+        margin: 0 auto;
+    }
+    .card-project{
+        width: 24%;
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .blog-card{
+        margin: 0;
+    }
+    .blog-card-col{
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .blog-img{
+        width: 100%;
+        height: 300px;
+        transition: transform .1s;
+    }
+    
+}
+@media (min-width: 769px) and (max-width: 992px) {
+    .profile-banner-section{
+        margin-top: 24px;
+    }
+    .profile-banner-section h2{
+        font-size: 34px;
+    }
+    .contact-banner-section{
+        display: block;
+        font-size: 12px;
+        line-height: 1.2;
+    }
+    .intro-banner-section h3{
+        font-size: 18px;
+    }
+    .intro-banner-section p{
+        font-size: 12px;
+    }
+    .banner-pic{
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .download-cv-btn{
+        font-size: 12px;
+        padding: 10px 16px;
+    }
+    .intro-learn-more{
+        font-size: 12px;
+    }
+    .card{
+        width: 30%;
+        margin: 0 auto;
+    }
+    .logo{
+        height: 24px;
+    }
+    .skill-col{
+        margin-right: 20px;
+    }
+    .card-project{
+        width: 48%;
+        padding: 20px;
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .card-project-img{
+        width: 100%;
+        height: 280px;
+        object-fit: cover;
+        border-radius: 12px;
+    }
+    .blog-card{
+        margin: 0;
+    }
+    .blog-card-col{
+        margin: 0 auto;
+        margin-bottom: 24px;
+        width: 48%;
+    }
+    .blog-img{
+        width: 100%;
+        height: 340px;
+        transition: transform .1s;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .profile-banner-section{
+        margin-top: 24px;
+    }
+    .profile-banner-section h2{
+        color: #27282D;
+        font-size: 68px;
+        font-weight: 700;
+}
+    .banner-pic{
+        width: 100%;
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+    .intro-banner-section{
+        margin-top: 32px;
+        margin-bottom: 32px;
+    }
+    .card{
+        margin-right: 0;
+        margin-left: 12px;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .card-project{
+        width: 100%;
+        padding: 20px;
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .card-project-img{
+        width: 100%;
+        height: 300px;
+        object-fit: cover;
+        border-radius: 12px;
+    }
+    .blog-card{
+        margin: 0;
+    }
+    .blog-card-col{
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .blog-img{
+        width: 100%;
+        height: 300px;
+        transition: transform .1s;
+    }
+    
+}
+
+@media (max-width: 575.9px) {
+    .profile-banner-section{
+        margin-top: 24px;
+    }
+    .banner-pic{
+        width: 100%;
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+    .intro-banner-section{
+        margin-top: 32px;
+        margin-bottom: 32px;
+    }
+    .card{
+        margin-right: 0;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .resume, .experience{
+        margin-bottom: 24px;
+    }
+    .card-project{
+        width: 100%;
+        padding: 20px;
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .card-project-img{
+        width: 100%;
+        height: 280px;
+        object-fit: cover;
+        border-radius: 12px;
+    }
+    .blog-card{
+        margin: 0;
+    }
+    .blog-card-col{
+        margin: 0 auto;
+        margin-bottom: 24px;
+    }
+    .blog-img{
+        width: 100%;
+        height: 500px;
+        transition: transform .1s;
+    }
+}

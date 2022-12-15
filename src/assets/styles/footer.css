@@ -1,0 +1,27 @@
+.footer{
+    padding-top: 80px;
+    padding-bottom: 52px;
+    background-color: #FBFBFB;
+    color: #27282D;
+}
+.footer h3{
+    font-size: 24px;
+    font-weight: 600;
+}
+.contact-icon{
+    margin-top: 24px;
+}
+.contact-icon a{
+    text-decoration: none;
+    color: #27282D;
+    margin-right: 12px;
+}
+.contact-footer-icon{
+    width: 32px;
+}
+
+@media (max-width: 575.9px) {
+    .footer h3{
+        font-size: 20px;
+    }
+}

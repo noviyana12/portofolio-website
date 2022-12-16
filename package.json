@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "http.proxySupport": "off",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

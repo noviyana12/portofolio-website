@@ -22,7 +22,8 @@ const ResumeSection = () => {
                     <Row>
                         <Col md={4} className="resume">
                             <h4 className="resume-title">Why Choose Me</h4>
-                            <p>I like to share my knowledge to people because I believe it's the best way for me to learn better. I often</p>
+                            <p>I have been developing websites since I was in high school. Also, I enjoy exploring the world of UI/UX design because I believe that design is not merely about what we see, but also what we feel.</p>
+                            <p>Being leader of a community, I enjoy working in a team because it gives me an opportunity to obtain feedback and develop better.  If you need someone creative and hard-working to work on your project, you can count on me</p>
                         </Col>
                         <Col md={5} className="Experience">
                             <h4 className="resume-title">Experience</h4>

@@ -38,6 +38,11 @@
     font-weight: 500;
     color: #27282D;
 }
+.download-cv-btn a{
+        text-decoration: none;
+        color: #27282D;
+        font-weight: 500;
+    }
 .section-subtitle{
     color: #4F4F4F;
     font-size: 12px;
@@ -323,6 +328,7 @@
         font-size: 12px;
         padding: 10px 16px;
     }
+    
     .intro-learn-more{
         font-size: 12px;
     }

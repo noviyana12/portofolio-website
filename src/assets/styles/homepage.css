@@ -238,7 +238,6 @@
 }
 .blog-img{
     border-radius: 20px;
-    //width: 100%;
     height: 300px;
     object-fit: cover;
     transition: transform .2s;
